@@ -1,5 +1,5 @@
 # SAYAN BAKSHI 👨‍💻
-**Email:** sayan25bak@gmail.com 📧 | **Phone:** 8799743125 📞 | **Location:** New Delhi, India 🇮🇳
+**Email:** sayan25bak@gmail.com 📧 | **Location:** New Delhi, India 🇮🇳
 
 [GitHub](https://github.com/banjobyster) 👨‍💼 | [LinkedIn](https://www.linkedin.com/in/sayan-bakshi-103546204/) 💼 | [Portfolio](https://banjobyster.github.io/) 🌐
 
@@ -7,25 +7,29 @@
 **B.E, Computer Science and Engineering**  
 [University Institute of Engineering and Technology, Panjab University](https://www.uiet.puchd.ac.in/) | 2020 - 2024  
 Chandigarh, India  
-**CGPA:** 9.49 (Present) 🏆
+**CGPA:** 9.23 (Present) 🏆
 
 ## EXPERIENCE 💼
+### Backend Intern - Zenskar  
+**October 2023 - November 2023**
+- Extended invoice charge functionality by introducing optional parameters to give customer more flexibility while collaborating with cross functional teams.
+- Ensured correctness by implementing unit tests with coverage increase from 68 to 73 percentage.
+
 ### SDE Intern - Crove  
-**April 2023 - Current**
-- Leading the development of a new product for optimizing bookkeeping services with features like invoice scanner and automated data entry.
-- Involved in end-to-end software development, including backend, frontend, database, and deployment.
+**April 2023 - August 2023**
+- Developed MVP of a new product aimed at optimizing daybook keeping service, by automating entry of key-value pairs from invoices with OCR from text extraction and GPT for processing text.
+- Implemented solution made use of asynchronous processing of requests which reduced processing time by 10 times and was 5 times cost effective than industry solutions like Nanonets.
 
 ### SDE Intern - ZippiAI Inc  
-**October 2022 - January 2023**
-- Oversaw development of the first version of an application, showcasing project management and technical proficiency.
-- Designed the application's foundation model and deployed it on the cloud, ensuring secure implementation and project fulfillment.
-- Gained experience with AWS, MQTT, SSL, and backend development.
+**October 2022 - March 2023**
+- Collaborated with setting up broker server system to collect data from IOT devices and store them into database and stream to frontend via websockets, capable of handling 900,000 data point per hour.
+- Gained practical experience with technologies such as AWS, MQTT, TLS, and backend development, broadening technical proficiency and expertise.
 
 ## SKILLS 🚀
-**Programming Languages:** C/C++, HTML, CSS, JavaScript, SQL, Shell Scripting, Assembly  
-**Frameworks and Databases:** React, Gatsby, Node, Express, Socket.IO, MongoDB, Material-UI (MUI), JWT, Redux  
+**Programming Languages:** C/C++, HTML, CSS, JavaScript, SQL, Python  
+**Frameworks and Databases:** React, Node, Express, Socket.IO, MongoDB, Material-UI (MUI), JWT, Redux  
 **Subjects:** OOPS, Data Structures, Algorithms, OS, DBMS, Data Mining  
-**Others:** Ubuntu/Linux, REST, GraphQL, Git, Amazon Web Services
+**Others:** Ubuntu/Linux, REST, GraphQL, Git, Docker, Amazon Web Services
 
 ## GitHub Stats &#x1f4c8;
 <a href="https://github.com/banjobyster">
