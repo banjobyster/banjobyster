@@ -1,5 +1,5 @@
 # SAYAN BAKSHI 👨‍💻
-**Email:** sayan25bak@gmail.com 📧 | **Location:** New Delhi, India 🇮🇳
+**Email:** sayanbakshi2002@gmail.com 📧
 
 [GitHub](https://github.com/banjobyster) 👨‍💼 | [LinkedIn](https://www.linkedin.com/in/sayan-bakshi-103546204/) 💼 | [Portfolio](https://banjobyster.github.io/) 🌐
 
@@ -7,47 +7,46 @@
 **B.E, Computer Science and Engineering**  
 [University Institute of Engineering and Technology, Panjab University](https://www.uiet.puchd.ac.in/) | 2020 - 2024  
 Chandigarh, India  
-**CGPA:** 9.23 (Present) 🏆
+**CGPA:** 9.15 🏆
 
 ## EXPERIENCE 💼
+### Software Developer - Coinbase  
+**June 2024 – Present**  
+- Developed backend functionalities to onboard crypto into user wallets and enable cashout of crypto to fiat  
+- Independently implemented CBBTC cashout functionality, which accounted for 2.5% of all transactions in the first 14 days  
+- Improved reliability of T0/1 onboarding services, increasing test coverage from 21% to 92% and optimizing CPU usage, database pooling, data TTL, and autoscaling  
+
+### Software Development Engineer Intern - Contentstack  
+**January 2024 – June 2024**  
+- Worked on a visual builder tool aimed at enhancing content creation and website customization  
+- Built an end-to-end timeline feature allowing users to preview upcoming changes  
+
 ### Backend Intern - Zenskar  
-**October 2023 - November 2023**
-- Extended invoice charge functionality by introducing optional parameters to give customer more flexibility while collaborating with cross functional teams
-- Ensured correctness by implementing unit tests with coverage increase from 38 to 73 percentage
+**October 2023 – November 2023**  
+- Extended invoice charge functionality by introducing optional parameters to give customers more flexibility while collaborating with cross-functional teams  
+- Improved unit test coverage from 38% to 73%, ensuring robustness and code quality  
 
-### SDE Intern - Crove  
-**April 2023 - August 2023**
-- Developed MVP of a new product aimed at optimizing daybook keeping service, by automating entry of key-value pairs from invoices with OCR from text extraction and GPT for processing text
-- Implemented solution made use of asynchronous processing of requests which reduced processing time by 10 times and was 5 times cost effective than industry solutions like Nanonets
+### Software Development Engineer Intern - Crove  
+**April 2023 – August 2023**  
+- Developed the MVP of a product automating daybook keeping by extracting and processing invoice data using OCR and GPT  
+- Implemented asynchronous request processing, reducing processing time by 10x and delivering a solution 5x more cost-effective than industry alternatives like Nanonets  
 
-### SDE Intern - ZippiAI Inc  
-**October 2022 - March 2023**
-- Collaborated with setting up broker server system to collect data from IOT devices and store them into database and stream to frontend via websockets, capable of handling 900,000 data point per hour
-- Gained practical experience with technologies such as AWS, MQTT, TLS, and backend development, broadening technical proficiency and expertise
+### Software Development Engineer Intern - ZippiAI  
+**October 2022 – March 2023**  
+- Collaborated on developing a broker server system to collect IoT data, storing it in a database and streaming it to the frontend via WebSockets, handling 900,000 data points per hour  
+- Gained practical experience with AWS, MQTT, TLS, and backend development, broadening technical proficiency  
 
 ## SKILLS 🚀
-**Programming Languages:** C/C++, HTML, CSS, JavaScript, SQL, Python  
-**Frameworks and Databases:** React, Node, Express, Socket.IO, MongoDB, Material-UI (MUI), JWT, Redux  
-**Subjects:** OOPS, Data Structures, Algorithms, OS, DBMS, Data Mining  
-**Others:** Ubuntu/Linux, REST, GraphQL, Git, Docker, Amazon Web Services
+**Languages:** Golang, C/C++, HTML, CSS, JavaScript, Python, SQL  
+**Libraries and Frameworks:** CSF, React.js, Node.js, Express.js, Socket.io, MongoDB, MUI, JWT, Redux  
+**Subjects:** OOPS, Data Structures, Algorithms, OS, DBMS  
+**Others:** Ubuntu, REST, Git, AWS, Jest, Docker, Airflow, Datadog, GitHub Actions  
+
 
 ## GitHub Stats &#x1f4c8;
 <a href="https://github.com/banjobyster">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=banjobyster&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-
-## PROJECTS 🛠️
-### Sketch And Chat | [Link](https://multiplayerdrawingandchatwebsite.onrender.com)
-- Developed a multiplayer drawing app with real-time chat using React, Node, and Socket.IO
-- Created rooms, custom avatars, and enhanced user engagement
-
-### Social Media Clone | [Link](https://connectin-rumd.onrender.com/)
-- Built a social media app using the MERN stack for seamless frontend, backend, and database integration
-- Implemented JWT for user authentication, Material-UI, Redux, and React Router for improved UI, state management, and navigation
-
-### Ray Tracer | [Link](https://github.com/banjobyster/Ray-Tracer)
-- Developed a ray tracer using path tracing in C++ and SDL2 for rendering frames with the CPU
-- Implemented advanced computer graphics algorithms for realistic 3D scenes
 
 ## ACHIEVEMENTS 🏆
 - 2022 ICPC Asia Mathura Kanpur Regional Contest - Rank 21 | [Link](https://icpc.global/ICPCID/16B5RYB5D7Q5)
